@@ -14,6 +14,17 @@ The data used in this project is a modified microsoft dataset known as Financial
 ## Problem Statement
 
 ## PowerBI and Analytics Technical Skills:
-
++ Project Planning and Documentation
++ Data Gathering
++ Power Query
++ Data Modelling
++ Report Design
++ Data Visualization
++ Data Analysis Expression (DAX)
++ Business and Analytics Reporting
++ Performance Optimization
++ Scalability
++ Feedback and Continuous Improvement
+  
 ## Data Modelling
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Data%20Modelling.PNG" width=50% height=50%>
