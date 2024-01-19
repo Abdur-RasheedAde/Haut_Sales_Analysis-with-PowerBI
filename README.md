@@ -21,6 +21,7 @@ The data used in this project is a modified microsoft dataset known as Financial
 + Report Design
 + Data Visualization
 + Data Analysis Expression (DAX)
++ Page Navigation and Button
 + Business and Analytics Reporting
 + Performance Optimization
 + Scalability
