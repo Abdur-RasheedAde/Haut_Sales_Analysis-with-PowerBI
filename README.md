@@ -39,6 +39,5 @@ This project is aimed at improving business performance of Haut supermarket and 
 + Feedback and Continuous Improvement
   
 ## Data Modelling
-A calendar Table was created for optimization 
-The model is a star schema. There are 3-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
+To optimize the performance of the data model, a calendar table was created using the DAX function. The data model follows a star schema with one fact table and three dimension tables. The dimension tables have PRIMARY KEYS that connect to the corresponding FOREIGN KEYS in the fact table, forming a one-to-many relationship between each dimension table and the fact table. The diagram below shows the data model.
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Data%20Modelling.PNG" width=50% height=50%>
