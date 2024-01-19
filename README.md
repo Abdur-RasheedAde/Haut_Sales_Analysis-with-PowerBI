@@ -28,4 +28,6 @@ The data used in this project is a modified microsoft dataset known as Financial
 + Feedback and Continuous Improvement
   
 ## Data Modelling
+A calendar Table was created for optimization 
+The model is a star schema. There are 3-dimension tables and 1 fact table. The dimension tables are all joined to the fact table with a one-to-many relationship.
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Data%20Modelling.PNG" width=50% height=50%>
