@@ -3,9 +3,17 @@
 ![Slide1](https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Slide1.PNG)
 
 ##  Introduction
-This is a Power Bi project on sales analysis of an hypothetic Supermarket, Haut Super market. The project is to clean, analyze and draw insights in order to answer some critical question and help stake holders of Haut make informed decisions
+This is a Power Bi project on sales analysis of an hypothetic Supermarket, Haut Super market. The project is to clean, analyze and draw insights in order to answer some critical question and help stake holders of Haut make informed decisions.
 
 
-## Source Of Data:
+## Data Source:
+The data used in this project is a modified microsoft dataset known as Financial Samples;  
+* Microsoft Financial Sample Data [DownloadMicrosoftData](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download)
+* Modified Dataset used in this Project [DownloadModifiedDataset](https://docs.google.com/spreadsheets/u/2/d/1xkWC6Jlk_YZECHbpUtoc8AEiPb9jfcld/edit?usp=drive_web&ouid=114068862415751566917&rtpof=true)
 
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+## Problem Statement
+
+## PowerBI and Analytics Technical Skills:
+
+## Data Modelling
+<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Data%20Modelling.PNG" width=50% height=50%>
