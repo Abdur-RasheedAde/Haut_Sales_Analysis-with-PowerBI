@@ -56,17 +56,6 @@ On each page, the new card visual is used to hold Total Sales, Gross Sales and P
 
 ## Analytics abd Insights
 The data analysis revealed that;
-1. What is the monthly trend of total sales?
-2. What is the revenue performace compare to same period last year?
-3. What is the profit ratio on quarterly basis?
-4. Which products are the most and least profitable?
-5. Which sales regions are the most and least profitable?
-6. Does discount has an effect on Sales?
-7. Does season of the year has an influence on sales?
-8. What is the performance of the Africa market relative to other continent?
-9. Which country is most profitable?
-10. Which provinec is the most performing with total sales?
+Under construction
 
-
-
-Conclusions and Recommedations
+## Conclusions and Recommedations
