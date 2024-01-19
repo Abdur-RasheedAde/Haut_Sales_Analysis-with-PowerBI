@@ -35,6 +35,7 @@ This project is aimed at improving business performance of Haut supermarket and 
 + Page Navigation and Button
 + Business and Analytics Reporting
 + Performance Optimization
++ Deployment and Power BI Service
 + Scalability
 + Feedback and Continuous Improvement
   
@@ -57,5 +58,9 @@ On each page, the new card visual is used to hold Total Sales, Gross Sales and P
 ## Analytics abd Insights
 The data analysis revealed that;
 Under construction
+
+[HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/76a76c2b-00e2-4072-9c9c-f51f25a40876?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&pbi_source=linkShare
+)
+
 
 ## Conclusions and Recommedations
