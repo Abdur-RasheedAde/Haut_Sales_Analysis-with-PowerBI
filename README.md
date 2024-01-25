@@ -70,9 +70,10 @@ The data analysis revealed that;
 
 
 ## Deployment to Power BI Service
-This Report is deployed to Power BI service from my developer Microsoft account and publish to the web for everyone to have access to it.
-[HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)
-To Open a developer Microsoft account, kindly check this article
+This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
+[HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)  
+
+To Open a developer Microsoft account, kindly check this article [OpenMicrosoftdeveloperaccount](https://techcommunity.microsoft.com/t5/educator-developer-blog/register-for-microsoft-365-and-power-apps-developer-account-with/ba-p/3490280)
 
 
 
