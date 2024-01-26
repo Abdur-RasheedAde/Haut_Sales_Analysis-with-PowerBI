@@ -65,6 +65,7 @@ The data analysis revealed that;
 7. Africa pull 9% of the total Gross sales and 6% of the total Profit from the 202,286 Units solds from South Africa and Nigeria. This is can be visualised when clicking on Africa in the column chart 
 8. France is the most profitable Country among the Haut Stores with 20% ($4.9M) of the total profit
 
+![ConsolidatedDashboard](https://github.com/Abdur-RasheedAde/Haut_Sales_Analysis/blob/main/Page2Consolidated.PNG)
 
 ## Conclusions and Recommedations
 1. Haut should look into market analysis to promote more sales in Q1 and 2 or include seasonal products that will sell more during the first half of the year
