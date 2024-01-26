@@ -61,13 +61,17 @@ The data analysis revealed that;
 3. Q4 record the highest profit of ($8.4M) with Q1 with the lowest ($5M), this shows steady increase in profit across the quarter from 1 to 4
 4. The most and least profitable product category are Stationery and Cosmetics which amounts to 44% and 28% of the total profits respectively 
 5. By region continent is intended, therefore Haut supermarket makes the most sales from America region ($98M) with 47% of the total Gross Sales
-6. This is achieved with the help of the slicer; which shows that product with discount band to 96% of the total Gross sales while only 4% don't have discount with High band of discount amounting to 41% of the Gross Sales
+6. This is achieved with the help of the slicer; which shows that product with discount result to 96% of the total Gross sales while only 4% don't have discount, with **High** band of discount amounting to 41% of the Gross Sales
 7. Africa pull 9% of the total Gross sales and 6% of the total Profit from the 202,286 Units solds from South Africa and Nigeria. This is can be visualised when clicking on Africa in the column chart 
 8. France is the most profitable Country among the Haut Stores with 20% ($4.9M) of the total profit
 
 
 ## Conclusions and Recommedations
-
+1. Haut should look into market analysis to promote more sales in Q1 and 2 or include seasonal products that will sell more during the first half of the year
+2. The management of Haut should maintain their market strategy that amount to an increased in profit while improving customer experience
+3. Cosmetics product category require more Research and development to increase it's sales and profitability
+4. Promotions (discount) promote majority of the sales in Haut stores making it relevant in the ever evolving market, hence other promotion and marketing strategies should be employed to push sales and profit
+5. Products in Africa and China stores should be well researched to cater for the specific need of these markets
 
 ## Deployment to Power BI Service
 This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
