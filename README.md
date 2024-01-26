@@ -68,17 +68,20 @@ The data analysis revealed that;
 ![ConsolidatedDashboard](https://github.com/Abdur-RasheedAde/Haut_Sales_Analysis/blob/main/Page2Consolidated.PNG)
 
 ## Conclusions and Recommedations
-1. Haut should look into market analysis to promote more sales in Q1 and 2 or include seasonal products that will sell more during the first half of the year
-2. The management of Haut should maintain their market strategy that amount to an increased in profit while improving customer experience
-3. Cosmetics product category require more Research and development to increase it's sales and profitability
-4. Promotions (discount) promote majority of the sales in Haut stores making it relevant in the ever evolving market, hence other promotion and marketing strategies should be employed to push sales and profit
-5. Products in Africa and China stores should be well researched to cater for the specific need of these markets
+
+1. Haut needs to conduct market analysis to increase sales in Q1 and Q2 and offer seasonal products that appeal to customers in the first half of the year
+2. Haut’s management should continue their market strategy that leads to higher profits and better customer satisfaction
+3. The cosmetics product category demands more research and development to boost its sales and profitability
+4. Promotions (discounts) drive most of the sales in Haut stores, making them competitive in the dynamic market. Therefore, other promotional and marketing strategies should be implemented to enhance sales and profit
+5. Products in Africa and China stores should be tailored to the specific needs of these markets through careful research
 
 ## Deployment to Power BI Service
 This Report is deployed to Power BI service from my Microsoft developer account and publish to the web for everyone to have access to it.
 [HautSupermarketAnalysis](https://app.powerbi.com/groups/me/reports/66ab0071-4b25-41c8-99fd-fd006603aacd/ReportSection6239a8326550e132bae6?ctid=32796be2-60fb-4da2-8d26-06e5938e6e6b&experience=power-bi)  
 
 To Open a developer Microsoft account, kindly check this article [OpenMicrosoftdeveloperaccount](https://techcommunity.microsoft.com/t5/educator-developer-blog/register-for-microsoft-365-and-power-apps-developer-account-with/ba-p/3490280)
+
+Thanks for taking time to go through this report! 🤝
 
 
 
