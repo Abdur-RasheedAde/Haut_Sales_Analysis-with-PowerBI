@@ -53,7 +53,7 @@ On each page, the new card visual is used to hold Total Sales, Gross Sales and P
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Card1.PNG" width=90% height=90%>|<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/button1.PNG" width=40% height=40%> 
 <img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/columnbarchart.PNG" width=60% height=60%> |<img src="https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Linechart.PNG" width=100% height=100%> 
 
-## Analytics abd Insights
+## Analytics and Insights
 The data analysis revealed that;
 
 1. There is a zig-zag trend of profit across the months, however, October records the highest profit of ($3.74M) which is 15% of the total profit and April records the least profit of ($1.4M), 6% of total profit
