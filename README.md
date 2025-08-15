@@ -1,4 +1,12 @@
-# Haut  Supermarket Sales Report (2013 and 2014)
+# 🚀 # Haut  Supermarket Sales Report (2013 and 2014)
+
+## 🧠 **Author** Abdur-Rasheed Abiodun Adeoye  
+Data Analyst | Data Scientist | Bioinformatics Enthusiast   
+**Date:** August 2024  
+**Tools:** Data Analytics, Power BI, Excel, Sales analytics   
+**Contacts:** - [LinkedIn](https://www.linkedin.com/in/abdur-rasheed-adeoye/)
+              - [GitHub](https://github.com/Abdur-RasheedAde)
+
 
 ![Slide1](https://github.com/Abdur-RasheedAde/Financial_Report/blob/main/Slide1.PNG)
 
